@@ -33,3 +33,4 @@ C:\Users\Emil\Documents\Full Stack Projects\2019\October\featuretracker\obj\Debu
 C:\Users\Emil\Documents\Full Stack Projects\2019\October\featuretracker\obj\Debug\netcoreapp3.0\featuretracker.dll
 C:\Users\Emil\Documents\Full Stack Projects\2019\October\featuretracker\obj\Debug\netcoreapp3.0\featuretracker.pdb
 C:\Users\Emil\Documents\Full Stack Projects\2019\October\featuretracker\obj\Debug\netcoreapp3.0\featuretracker.csproj.CopyComplete
+C:\Users\Emil\Documents\Full Stack Projects\2019\October\featuretracker\obj\Debug\netcoreapp3.0\Razor\Views\Project\Index.cshtml.g.cs
