@@ -10,6 +10,6 @@ namespace featuretracker.Models
             
         }
 
-        public DbSet<featuretracker.Models.Project> Project {get; set;}
+        public DbSet<Project> Project {get; set;}
     }
 }
