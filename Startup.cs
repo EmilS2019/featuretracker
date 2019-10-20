@@ -27,8 +27,8 @@ namespace featuretracker
         {
             services.AddControllersWithViews();
 
-            services.AddDbContext<ProjectsContext>(options =>
-            options.UseSqlite(Configuration.GetConnectionString("ProjectsContext")));
+            services.AddDbContext<ProjectContext>(options =>
+            options.UseSqlite(Configuration.GetConnectionString("ProjectContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

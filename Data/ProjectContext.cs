@@ -1,10 +1,11 @@
 using Microsoft.EntityFrameworkCore;
+using featuretracker.Models;
 
 namespace featuretracker.Models
 {
-    public class ProjectsContext : DbContext
+    public class ProjectContext : DbContext
     {
-        public ProjectsContext(DbContextOptions<ProjectsContext> options)
+        public ProjectContext(DbContextOptions<ProjectContext> options)
         : base(options)
         {
             
